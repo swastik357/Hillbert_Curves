@@ -9,4 +9,4 @@ filling curve of 2-D plane.
 
 If distance between points on Hilbert space filling curve of 2-D plane is less => Points are "Euclidean close". 
 
-But reverse is not true. That is "Euclidean close" points can be far away on Hilbert space filling curve of 2-D plane.
+But converse is not true. That is "Euclidean close" points can be far away on Hilbert space filling curve of 2-D plane.
