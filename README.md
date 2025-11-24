@@ -1,4 +1,4 @@
-Images are from wikipedia page: https://en.wikipedia.org/wiki/David_Hilbert
+Images are from wikipedia page: https://en.wikipedia.org/wiki/David_Hilbert of David Hilbert, German mathematician and philosopher of mathematics.
 
 Green grid in third image in Hilbert_curves.svg.png is by me.
 
